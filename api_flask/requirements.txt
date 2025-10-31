@@ -6,4 +6,4 @@ PyJWT
 python-dotenv
 ollama
 pymongo[srv]
-uuid
+gunicorn
