@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-PyMongo
+Flask-Bcrypt
+PyJWT
+python-dotenv
+ollama
+pymongo[srv]
+uuid
